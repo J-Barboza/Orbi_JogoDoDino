@@ -7,4 +7,4 @@
 ## Clone (quase :smile: ) do famoso jogo off-line da Google.
 
 ## Organizador: [Digital Innovation One](https://web.dio.me/home)
-### Mentor: Celso Henrique
+### Mentor: [Celso Henrique](https://github.com/celso-henrique/dio-dino-game)
