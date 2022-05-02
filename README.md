@@ -4,7 +4,7 @@
 
 # Jogo do Dino
 
-## Clone (quase :ismile: ) do famoso jogo off-line da Google (quase clone)
+## Clone (quase :smile: ) do famoso jogo off-line da Google (quase clone)
 
 ## Organizador: [Digital Innovation One](https://web.dio.me/home)
 ### Mentor: Celso Henrique
